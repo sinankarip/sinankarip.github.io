@@ -1,0 +1,19 @@
+title: Sinan Karip
+description: Research projects and notes
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+
+
+search_enabled: true
+color_scheme: color
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      nav_exclude: true
