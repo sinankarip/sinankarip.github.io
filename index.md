@@ -17,14 +17,7 @@ I am particularly driven by questions such as:
 
 ---
 
-## Research Projects
-
-### Manifold Explorer
-Open-set geometry, epistemic boundaries, and model–problem correspondence.  
--- https://sinankarip.github.io/manifol-explorer/
-
----
-
 ## Links
 - GitHub: https://github.com/sinankarip
+- Kaggle: https://www.kaggle.com/sinankr
 
